@@ -1,4 +1,4 @@
-package org.springframework.guides.rest.payroll;
+package org.springframework.guides.rest.payroll.employee;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

@@ -1,4 +1,4 @@
-package org.springframework.guides.rest.payroll;
+package org.springframework.guides.rest.payroll.employee;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
